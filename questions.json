@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which language runs in a web browser?",
+    "options": ["Java", "C", "Python", "JavaScript"],
+    "answerIndex": 3
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": [
+      "Creative Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style System",
+      "Colorful Style Sheets"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "question": "Which HTML tag is used to link a JavaScript file?",
+    "options": ["<link>", "<script>", "<js>", "<javascript>"],
+    "answerIndex": 1
+  },
+  {
+    "question": "Which company developed Java?",
+    "options": ["Microsoft", "Sun Microsystems", "Google", "IBM"],
+    "answerIndex": 1
+  },
+  {
+    "question": "Which of the following is a JavaScript framework?",
+    "options": ["Django", "React", "Laravel", "Spring"],
+    "answerIndex": 1
+  }
+]
